@@ -1,6 +1,6 @@
 # IHOS Website
 
-Tento projekt představuje oficiální webové stránky společnosti IHOS, postavené na moderních technologiích jako Next.js, Tailwind CSS a TypeScript.
+Tento projekt představuje oficiální webové stránky projektu ihos.eu, postavené na moderních technologiích jako Next.js, Tailwind CSS a TypeScript.
 
 ## 📁 Struktura projektu
 
